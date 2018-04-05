@@ -33,7 +33,7 @@ After creating app go to: **Manage Clients -> Manage -> Security.**
 
 ## Usage
 
-Place this code in your </head> tag:
+Place this code in your `</head>` tag:
 
 ```js
 <script src="https://instagram-photo-picker.firebaseapp.com/instagram.min.js"></script>
